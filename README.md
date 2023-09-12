@@ -1,0 +1,3 @@
+# Roller-Coaster-Analysis
+
+This project applies data manipulation and visualization to analyze the characteristics of roller coasters. In the first part, we look at how rankings of different roller coasters changed over time. Then, we investigate the distributions of roller coasters' speed, height, length, and number of inversions. After that, we look at the proportions of roller coasters operating vs closed definitely. We then look at the relationship between speed and height as well as the popularity of different seating types. We also answer some interesting questions on what rollercoaster characteristics manufacturers and parks specialize in.
